@@ -8,5 +8,5 @@ Esta aplicação simularia um controlador de despesas pessoas podendo criar e de
 [Deploy](https://app-orcamento-pessoal-jfvib9ao8-lucasfpds.vercel.app/)<br>
 
 <h2>📷 Preview</h2>
-<h3>Desktop:</h3>
+
 <img src="./cinnamon-20210408-15.gif">
