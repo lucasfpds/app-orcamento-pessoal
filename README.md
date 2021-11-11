@@ -10,3 +10,13 @@ Esta aplicação simularia um controlador de despesas pessoas podendo criar e de
 <h2>📷 Preview</h2>
 
 <img src="./cinnamon-20210408-15.gif">
+
+<br>
+
+```bash
+#Fazer o fork do repositório para sua conta
+
+#Executar git clone do seu fork no terminal para clonar o repositório
+
+#Para executar o projeto acesse o arquivo index.html
+```
